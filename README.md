@@ -1,10 +1,9 @@
-# Shaheer Abdullah
-
 ## About
 - Passionate about using technology to build products which add value to society.
 
 
-#### Technical Skills: Python (pandas, numpy, matplotlib, seaborn, scikit-learn, librosa, audioflux, scipy)
+## Technical Skills: 
+Python (pandas, numpy, matplotlib, seaborn, scikit-learn, librosa, audioflux, scipy)
 
 ## Work Experience
 **ML Engineer @ Auxtend (_June 2023 - Present_)**
