@@ -20,5 +20,5 @@ techniques using Python, building machine learning models with Scikit-learn libr
 Python, and producing written reports for sharing with others.
 
 
-[Linkedin](www.linkedin.com/in/shaheer1018)
+[Linkedin](www.linkedin.com/in/shaheer1018/)
 
